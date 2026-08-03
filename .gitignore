@@ -28,4 +28,15 @@ env/
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.rpt
+*.erc
+*.kicad_prl
+*.kicad_prl.*
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+_autosave-*
+*.lck
 
