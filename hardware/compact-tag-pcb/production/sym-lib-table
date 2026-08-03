@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "DEVKIT_V1_ESP32-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/DEVKIT_V1_ESP32-WROOM-32.kicad_sym")(options "")(descr ""))
+  (lib (name "PCB_uwbmodule-altium-import")(type "KiCad")(uri "${KIPRJMOD}/PCB_uwbmodule-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32WBA5MMG")(type "KiCad")(uri "C:/Users/krish/OneDrive/Documents/ul_STM32WBA5MMGH6TR/KiCADv6/2026-06-11_07-17-30.kicad_sym")(options "")(descr ""))
+  (lib (name "DWM3000TR13")(type "KiCad")(uri "C:/Users/krish/Downloads/LIB_DWM3000TR13/DWM3000TR13/KiCad/DWM3000TR13.kicad_sym")(options "")(descr ""))
+  (lib (name "STBB1-APUR")(type "KiCad")(uri "C:/Users/krish/OneDrive/Desktop/ESD_kicad/STBB1-APUR/KiCADv6/2026-07-29_05-47-38.kicad_sym")(options "")(descr ""))
+)
