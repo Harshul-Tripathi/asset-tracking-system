@@ -39,7 +39,6 @@ The repository is modularized to separate different microcontrollers, hardware d
 
 ## 👥 Contributors
 
-*   Parth Rawat
-*   Chetan
-*   Dhruv Dagar
-*   Dhruv Tanwar
+*   Krishang Singh
+*   Krishna Kumar Mahto
+*   Harshul Tripathi
