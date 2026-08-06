@@ -9,7 +9,7 @@ This repository contains the complete firmware, hardware PCB designs, and compre
 
 *   Krishang Singh - Hardware selection, Schematic and Layout design, Low-power optimization
 *   Krishna Kumar Mahto - Firmware, Qorvo SDK, Breadboard testing (one way ranging)
-*   Harshul Tripathi - 
+*   Harshul Tripathi - MCU Pinout Architecture (CubeMX), AirTag Analysis, System Power Profiling
 
 ## 🏗️ System Architecture
 
@@ -39,5 +39,4 @@ The repository is modularized to separate different microcontrollers, hardware d
 *   **`/docs`**: Contains all reference materials, component datasheets, project presentations, and research (including AirTag teardowns).
 *   **`/firmware`**: Separated source code for the ESP-IDF and STM32CubeIDE workspaces. Each subsystem contains its own build instructions and configurations.
 *   **`/hardware`**: Contains the custom compact tag PCB designs (KiCad/Altium). Includes standard EDA source files alongside a `/production` folder for manufacturing Gerbers and BOMs.
-  Bill of materials at https://docs.google.com/spreadsheets/d/1hblhsTxwv2oZ0Glx2I5-RgQRU_NxM7c-/edit?gid=825366155#gid=825366155
   ---
