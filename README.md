@@ -5,6 +5,11 @@ An industrial project developed in collaboration with **STMicroelectronics** to 
 This repository contains the complete firmware, hardware PCB designs, and comprehensive documentation for the entire project lifecycle.
 
 ---
+## 👥 Contributors
+
+*   Krishang Singh - Hardware selection, Schematic and Layout design, Low-power optimization
+*   Krishna Kumar Mahto - Firmware, Qorvo SDK, Breadboard testing (one way ranging)
+*   Harshul Tripathi - 
 
 ## 🏗️ System Architecture
 
@@ -36,9 +41,3 @@ The repository is modularized to separate different microcontrollers, hardware d
 *   **`/hardware`**: Contains the custom compact tag PCB designs (KiCad/Altium). Includes standard EDA source files alongside a `/production` folder for manufacturing Gerbers and BOMs.
 
 ---
-
-## 👥 Contributors
-
-*   Krishang Singh
-*   Krishna Kumar Mahto
-*   Harshul Tripathi
